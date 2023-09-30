@@ -1,0 +1,144 @@
+        .clear{
+            clear: both;
+        }
+        header{
+            text-align: center;
+        }
+        header img{
+            width: 100%;
+        }
+        #content{
+            overflow: hidden;
+        }
+        #content_left{
+            float: left; 
+            width: 25%;
+        }        
+        #content_right{
+            float: left;  
+            width: 74.5%;
+            margin-left: 0.5%;
+        }
+        #content_right_left{
+            float: left;
+            width: 70%;
+        }
+        #content_right_left h2{
+            margin: 0px;
+            text-align: center;
+        }
+        #content_right_right{
+            float: left;
+            width: 30%;
+        }
+        #content_right_right img{
+            width: 100%;            
+        }
+        #menu{
+            height: 50px;            
+            background-color: goldenrod;
+            line-height: 50px;
+            margin-top: -20px;
+        }
+        #menu ul li{
+            display: inline;
+            margin-right: 20px; 
+            font-size: 15px;
+        }
+        #menu ul li img{
+            height: 20px;
+        }
+        #menu_left{
+            background-color: khaki;
+        }
+        #menu_left ul{
+            list-style: none;          
+            padding: 5px;
+            margin: 1px;
+        }        
+        #menu_left ul li span{
+            margin-right: 10px;
+        }
+        #menu_left ul li img{
+            width: 20px;          
+        }        
+        footer{
+            background-color: blue;
+            color: white;
+            margin-top: 10px;
+        }
+        footer h3{
+            text-align: center;
+            margin: 0px;
+        }
+        .danhmucsua{            
+            background-color: pink;
+         
+        }
+        .danhmucsua ul{
+            list-style: none;
+            padding-left: 0px;         
+            margin: 0px;
+        }
+        .danhmucsua li{
+            
+        }
+        .danhmucsua li h2{
+            margin: 0px;
+            background-color: red;
+            color: white;
+        }
+        table{
+            width: 100%;
+        }
+        thead th{
+            background-color: red;
+            color: white;
+            font-size: 20px;
+            padding: 5px;
+        }
+        tbody tr{
+            background-color: pink;
+        }
+        tbody img{
+            width: 50px;
+        }        
+        tfoot td{
+            text-align: center;
+        }
+        tfoot td a{
+            color: blue;
+            font-size: 20px;
+            margin-left: 10px;            
+        }
+        tfoot td a:hover{
+            color: red;                     
+        }
+        tfoot td a.current{
+            color: red;                     
+        }
+        #phantrang{
+            text-align: center;
+            margin-top: 20px;
+        }
+        #phantrang a{
+            margin-left:20px;
+            font-size: 20px;
+            text-decoration: none;
+        }
+        #phantrang a:hover{
+            color: red;                     
+        }
+        #phantrang a.current{
+            color: red;                     
+        }
+        #trongluong{
+            width: 100%;
+            text-align: right;
+        }
+        #thongtin{
+            float: left;
+            margin-left: 10px;
+            margin-top: -20px;
+            width: 500px;
+        }
